@@ -1,0 +1,75 @@
+@media (max-width: 1399px) {
+    .banner_right .bg_image {
+        right: -45px;
+    }
+}
+
+
+@media (max-width: 1200px) {
+    .banner_right .bg_image {
+        right: 0px;
+    }
+
+    .quality_food_row {
+        align-items: center;
+    }
+}
+
+@media (max-width: 992px) {
+    .banner_right .bg_image {
+        right: 15px;
+    }
+
+    .banner_left {
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+
+    .banner_right {
+        text-align: center;
+    }
+
+    .blog_meta h4 {
+        font-size: 16px;
+    }
+
+    .blog_meta ul {
+        gap: 17px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .banner_right .bg_image {
+        right: 8px;
+    }
+
+}
+
+@media (max-width: 576px) {
+    .team .expert_item {
+        text-align: center;
+    }
+
+    .testimonial_bottom .client_item {
+        margin-bottom: 80px;
+    }
+
+    .blog_bottom_margin {
+        margin-bottom: 50px;
+    }
+
+    .left_vector {
+        display: none;
+    }
+
+    .right_vector {
+        display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    .banner_left h1 {
+        font-size: 39px;
+    }
+}
